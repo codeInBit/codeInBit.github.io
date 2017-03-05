@@ -5,7 +5,7 @@
   i18n: swConference
   gh_user: CodeInBit
   repo: NACOSS-SWReg
-  website: codInBit/NACOSS-SWReg
+  website: github.com/codeInBit/NACOSS-SWReg
   img: /static/assets/img/landing/swreg.png
   desc: This project was developed to handle the registration, payment and database records of all students who attended the NACOSS South-West Conference hosted by the Nigeria Association of Computer Science Students, University of Ibadan Chapters.
 

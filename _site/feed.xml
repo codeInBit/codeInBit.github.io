@@ -5,66 +5,40 @@
     <description>Olanrewaju Abidogun's blog where he showcase his portfolio and blog about his profession and life generally.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Mar 2017 16:46:49 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Mar 2017 16:46:49 +0100</lastBuildDate>
+    <pubDate>Sun, 05 Mar 2017 20:45:29 +0100</pubDate>
+    <lastBuildDate>Sun, 05 Mar 2017 20:45:29 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>3 Steps (2 minutes) to Setup Your Personal Website with Jalpc</title>
-        <description>&lt;p&gt;Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.&lt;/p&gt;
+        <title>I Started Blogging Again</title>
+        <description>&lt;p&gt;Hy, this is my new blog and my first post after a very long time, I started blogging in 2015 during my Student Industrial Workshop Experience Scheme (SIWES) which was part of my required courses while I was in 300 level. I created a &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt; blog as one of my project and ever since then, I only published twice on the platform (The day I created the blog and 31st December, 2016) ….too bad hun? It’s not really my fault, I’m not the writing type, I find it difficult and stressful most times to pen down my thoughts.&lt;/p&gt;
 
-&lt;p&gt;So, if you like this website &lt;a href=&quot;https://jarrekk.github.io/Jalpc/&quot;&gt;https://jarrekk.github.io/Jalpc/&lt;/a&gt; or &lt;a href=&quot;http://www.jack003.com&quot;&gt;http://www.jack003.com&lt;/a&gt; and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website:&lt;/p&gt;
+&lt;p&gt;However, I have decided to pick it up from where I stopped and make it better. I started by creating a portfolio to showcase my myself and projects I’ve worked on, I also designed a new blog using &lt;a href=&quot;http://www.jack003.com/&quot;&gt;Jack’s’&lt;/a&gt; theme on &lt;a href=&quot;https://github.com&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Henceforth, I will be writing about about stuffs I’ve learnt while developing applications, I might focus mainly on web applications for now, since I’m learning datascience and machine learning, I will also be writing about the little things I know.&lt;/p&gt;
 
-    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/blog/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
+&lt;p&gt;Now how do I intend to keep up with this and not drop it off like I did the first time.&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;: edit ‘Website settings’, ‘author’, ‘comment’ and ‘analytics’ items.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/landing.yml&lt;/strong&gt;: custom sections of index page.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/index/&lt;/strong&gt;: edit sections’ data to yours at index page, please notice comment at each file.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/blog.yml&lt;/strong&gt;: edit navbar(categories) of blog page, if you have different/more blog page, copy &lt;code class=&quot;highlighter-rouge&quot;&gt;blog/python.html&lt;/code&gt; and change it to your category HTML file, and edit &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;/python/&lt;/strong&gt; to your category name at items &lt;strong&gt;title&lt;/strong&gt; and &lt;strong&gt;permalink&lt;/strong&gt;, make sure title is the same as permalink but capitalized first letter(except HTML).&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;CNAME&lt;/strong&gt;: If you wanna release website at your own domain name: edit it and create &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch; if you want to use &lt;em&gt;github_username.github.io&lt;/em&gt;: leave it blank.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Go to repo’s settings panel, config &lt;strong&gt;GitHub Pages&lt;/strong&gt; section to make sure website is released.&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Push changes to your github repository and view your website, done!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;P.S: Its not like there are no stuffs to write, but I’m just too lazy to write and I really want to work on this.&lt;/p&gt;
 
-&lt;p&gt;From now on, you can post your blog to this website by creating md files at &lt;code class=&quot;highlighter-rouge&quot;&gt;post/&lt;/code&gt; directory and push it to GitHub, you can clear files at this directory before you post blogs.&lt;/p&gt;
+&lt;p&gt;One way you can help me in achieving this is to initiate discussion on my post, this will help me keep up to it and learn more so I can write better.&lt;/p&gt;
 
-&lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
+&lt;p&gt;Stay tuned…Till I write again! #Gracias.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
+        <pubDate>Sun, 05 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/life/2017/03/05/I-started-blogging-again.html</link>
+        <guid isPermaLink="true">http://localhost:4000/life/2017/03/05/I-started-blogging-again.html</guid>
         
-        <category>Jalpc</category>
+        <category>blogging</category>
         
-        <category>Jekyll</category>
+        <category>new</category>
+        
+        <category>progress</category>
+        
+        <category>success</category>
         
         
-        <category>HTML</category>
+        <category>LIFE</category>
         
       </item>
     
