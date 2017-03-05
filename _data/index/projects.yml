@@ -1,0 +1,24 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: NACOSS South-West Convention 2016 Registration
+  i18n: swConference
+  gh_user: CodeInBit
+  repo: NACOSS-SWReg
+  website: codInBit/NACOSS-SWReg
+  img: /static/assets/img/landing/swreg.png
+  desc: This project was developed to handle the registration, payment and database records of all students who attended the NACOSS South-West Conference hosted by the Nigeria Association of Computer Science Students, University of Ibadan Chapters.
+
+- name: Push It
+  i18n: push
+  gh_user: cellcoreLTD
+  repo: push
+  website: push.cellcore.com.ng
+  img: /static/assets/img/landing/pushIt.png
+  desc: I was a major part of the team of this project at Cellcore Limited. Push It is an optimized, real time and cross platform notification system which allows you to configure and send a variety of rich format messages directly to mobile devices that have your application installed. I developed the web application (Front & Back-end).
+
+- name: Travcut Educational Consult
+  website: travcutedu.com.ng
+  i18n: travcutedu
+  img: /static/assets/img/landing/travcutedu.png
+  desc: Travcutedu is a website I developed for a client, it showcases and brand the online appearance and footprint of the company.

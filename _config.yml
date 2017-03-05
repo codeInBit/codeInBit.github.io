@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Olanrewaju Abidogun
+description: Olanrewaju Abidogun's blog where he showcase his portfolio and blog about his profession and life generally.
+keywords: Olanrewaju,Abidogun,Musbaudeen,Developer,Software,MAchine Learning,Laravel,Python,PHP
+baseurl: /a  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://codeInBit.github.io/a  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: /a/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: Olanrewaju Abidogun  # Be used at blog posts' author.
+  first_name: Olanrewaju  # Be used at index page about me section.
+  last_name: Abidogun  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  github_username: codeInBit  # Leave blank if you don't have now
+  linkedin_id: olanrewaju-abidogun # Leave blank if you don't have now
+  facebook_username: olanrewaju.abidogun  # Leave blank if you don't have now
+  twitter_username: codeInBit  # Leave blank if you don't have now
+  email: olanrewaju.abidogun@gmail.com  # Leave blank if you don't have now
+  cv:   # A online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: icon-apache
+    - name: fa-linux
+  skill_icon2:
+    - name: fa-linux
+    - name: icon-apache
+  desc: I’m a young full-stack software developer possessing knowledge of designing and developing projects to required specifications, focusing on economy, reliability, quality, and sustainability. I'm a detailed listener and solution oriented person. Aside software development, I've been investing my time learning Datascience and Machine Learning, when I not doing any of these, I'm swimming.  # Describe yourself.
+
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: codeinbit
+  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  id: UA-93055112-1
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

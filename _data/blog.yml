@@ -1,0 +1,27 @@
+# blog page sections
+- name: Blog
+  href: /blog/
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: Laravel
+  href: /laravel/
+
+- name: Datascience
+  href: /datascience/
+
+- name: Android
+  href: /android/
+
+- name: Machine-Learning
+  href: /machine-learning/
+
+- name: Life
+  href: /life/
+
+#- name: Mac
+#  href: /mac/
+
+
+# Don't display donation page: change donation to off at file '_config.yml'
+- name: Donate
+  href: /donate/

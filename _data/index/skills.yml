@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: PHP [ Laravel ], HTML5, CSS, Javascript, Python, Machine Learning, GitHub
+percentage: 85, 80, 75, 60, 60, 50, 85
