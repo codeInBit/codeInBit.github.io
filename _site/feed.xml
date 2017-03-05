@@ -3,10 +3,10 @@
   <channel>
     <title>Olanrewaju Abidogun</title>
     <description>Olanrewaju Abidogun's blog where he showcase his portfolio and blog about his profession and life generally.</description>
-    <link>http://localhost:4000/a/</link>
-    <atom:link href="http://localhost:4000/a/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Mar 2017 16:28:00 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Mar 2017 16:28:00 +0100</lastBuildDate>
+    <link>http://localhost:4000/codeinbit.github.io/</link>
+    <atom:link href="http://localhost:4000/codeinbit.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 05 Mar 2017 16:41:56 +0100</pubDate>
+    <lastBuildDate>Sun, 05 Mar 2017 16:41:56 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -19,8 +19,8 @@
   &lt;li&gt;
     &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;!-- ![edit](/a/static/assets/img/blog/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/a/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;!-- ![edit](/codeinbit.github.io/static/assets/img/blog/3steps/edit.gif) --&gt;
+ &lt;img src=&quot;/codeinbit.github.io/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
@@ -56,8 +56,8 @@
 &lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/a/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/a/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
+        <link>http://localhost:4000/codeinbit.github.io/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/codeinbit.github.io/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
         
         <category>Jalpc</category>
         
