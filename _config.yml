@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I’m a young full-stack software developer possessing knowledge of designing and developing projects to required specifications, focusing on economy, reliability, quality, and sustainability. I'm a detailed listener and solution oriented person. Aside software development, I've been investing my time learning Datascience and Machine Learning, when I not doing any of these, I'm swimming.  # Describe yourself.
+  desc: I’m a full-stack software developer possessing knowledge of designing and developing projects to required specifications, focusing on economy, reliability, quality, and sustainability. I'm a detailed listener and solution oriented person. Aside software development, I've been investing my time learning Datascience and Machine Learning, when I'm not doing any of these, I'm swimming.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
